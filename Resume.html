@@ -27,7 +27,7 @@
       <ul>
         <p1><b>Bachelor of Engineering (Information Technology) </b>
         <br>Pillai College Of Engineering, Panvel 
-        <br>CGPA 9.0 
+        <br>CGPA 8.7
         <br> Year Of Graduation 2023 
         </p1>
       </ul>
