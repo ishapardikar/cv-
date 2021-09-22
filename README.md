@@ -4,9 +4,11 @@
     </head>
     <body>
         <h1> Isha Hemant Pardikar </h1>
-        <p5 style="font-size:15px;"> Student at Pillai College of Engineering </p5>
+        <p5 style="font-size:15px;"> <b>Student</b> 
+          <br>
+        Mumbai, Maharashtra, India </p5>
         <hr>
-        <p0 style="background-color:rgb(200, 200, 200)"> Contact info </p0>
+        <p0 style="background-color:rgb(200, 200, 200)"><b> Personal info </b></p0>
         <ul>
         <p1> <img src="https://w7.pngwing.com/pngs/816/510/png-transparent-call-icon-poland-retail-company-rio-huancabamba-service-others-miscellaneous-company-text-thumbnail.png" width="15" height="17">  8108800857 </p1> <br>
         <br>
@@ -18,13 +20,40 @@
         
       </ul>
       <hr>
-      <p6 style="background-color:rgb(200, 200, 200)"> Education </p6>
+      <p9 style="background-color: rgb(200, 200, 200);"><b>Professional Summary</b>
+      <ul> An Engineering student who is seeking entry-level opportunity in an esteemed organization.</ul></p9>
+      <hr>
+      <p6 style="background-color:rgb(200, 200, 200)"> <b>Education </b></p6>
       <ul>
-        <li>Bachelor of Engineering (Information Technology) </li>
-        <li> in Third Year </li>
-        <li> CGPA 9.0 </li>
-        <li> Year Of Graduation 2023 </li>
+        <p1><b>Bachelor of Engineering (Information Technology) </b>
+        <br>Pillai College Of Engineering, Panvel 
+        <br>CGPA 9.0 
+        <br> Year Of Graduation 2023 
+        </p1>
       </ul>
+      <hr>
+      <p7 style="background-color: rgb(200, 200, 200);"> <b>Professional Skills</b> </p7>
+      <ul>
+         <li>HTML, CSS, Javascript</li>
+         <li>Python, php</li>
+         <li>SQL</li>   
+      </ul>
+      <hr>
+      <p9 style="background-color: rgb(200, 200, 200);"><b> Projects </b> </p9>
+      <ul>
+        <li> Spin and Win Game </li>
+        <li> Employee Management System </li>
+      </ul>
+      <hr>
+      <p8 style="background-color: rgb(200, 200, 200);"><b>Languages</b></p8>
+      <ul>
+        <li>English</li>
+        <li>Hindi</li>
+        <li>Marathi</li>
+      </ul>
+
+    </body>
+</html>
 
     </body>
 </html>
