@@ -10,7 +10,7 @@
         <hr>
         <p0 style="background-color:rgb(200, 200, 200)"><b> Personal info </b></p0>
         <ul>
-        <p1> <img src="https://w7.pngwing.com/pngs/816/510/png-transparent-call-icon-poland-retail-company-rio-huancabamba-service-others-miscellaneous-company-text-thumbnail.png" width="15" height="17">  8108800857 </p1> <br>
+        <p1> <img src="https://w7.pngwing.com/pngs/816/510/png-transparent-call-icon-poland-retail-company-rio-huancabamba-service-others-miscellaneous-company-text-thumbnail.png" width="15" height="17"> +91 8108800857 </p1> <br>
         <br>
         <p2> <img src="https://e7.pngegg.com/pngimages/313/659/png-clipart-the-daily-dot-internet-logo-online-newspaper-address-icons-company-logo.png" width="15" height="17">  plot 529, Navi mumbai  </p2> <br>
         <br>
