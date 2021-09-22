@@ -1,15 +1,14 @@
-
 <html>
   <head>
       <title>cv</title>
     </head>
     <body>
         <h1> Isha Hemant Pardikar </h1>
-       <p5 style="font-size:15px;"> Student at Pillai College of Engineering </p5>
+        <p5 style="font-size:15px;"> Student at Pillai College of Engineering </p5>
         <hr>
-        <p style="background-color:rgb(200, 200, 200)"> Contact Info: </p> 
+        <p0 style="background-color:rgb(200, 200, 200)"> Contact info </p0>
         <ul>
-        <p1> <img src="https://w7.pngwing.com/pngs/816/510/png-transparent-call-icon-poland-retail-company-rio-huancabamba-service-others-miscellaneous-company-text-thumbnail.png" width="15" height="17"> +91 8108800857 </p1> <br>
+        <p1> <img src="https://w7.pngwing.com/pngs/816/510/png-transparent-call-icon-poland-retail-company-rio-huancabamba-service-others-miscellaneous-company-text-thumbnail.png" width="15" height="17">  8108800857 </p1> <br>
         <br>
         <p2> <img src="https://e7.pngegg.com/pngimages/313/659/png-clipart-the-daily-dot-internet-logo-online-newspaper-address-icons-company-logo.png" width="15" height="17">  plot 529, Navi mumbai  </p2> <br>
         <br>
@@ -19,6 +18,13 @@
         
       </ul>
       <hr>
+      <p6 style="background-color:rgb(200, 200, 200)"> Education </p6>
+      <ul>
+        <li>Bachelor of Engineering (Information Technology) </li>
+        <li> in Third Year </li>
+        <li> CGPA 9.0 </li>
+        <li> Year Of Graduation 2023 </li>
+      </ul>
 
     </body>
 </html>
