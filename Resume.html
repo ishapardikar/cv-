@@ -5,7 +5,7 @@
     </head>
     <body>
         <h1> Isha Hemant Pardikar </h1>
-        <p5> Student </p5>
+        <p5> Student at Pillai College of Engineering </p5>
         <hr>
         <p style="background-color:rgb(200, 200, 200)"> Contact Info: </p> 
         <ul>
