@@ -56,7 +56,7 @@
       <hr>
       <p10 style="background-color: rgb(200, 200, 200);"><b> Location</b></p10>
       <br> <br>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4963.581120036417!2d73.10376542195957!3d18.994526794243953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e83e1f23f23d%3A0xe3a106c431e3fd0a!2sPanvel%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1632403535493!5m2!1sen!2sin" width="450" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4963.581120036417!2d73.10376542195957!3d18.994526794243953!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e83e1f23f23d%3A0xe3a106c431e3fd0a!2sPanvel%2C%20Navi%20Mumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1632403535493!5m2!1sen!2sin" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
     </body>
 </html>
