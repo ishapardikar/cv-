@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1> Isha Hemant Pardikar </h1>
-        <img src="isha.jpg" alt="isha" width="150" height="150">
+        <img src="isha.jpeg" alt="isha" width="150" height="150">
         <br>
         <p5 style="font-size:15px;"> <b>Student</b> 
           <br>
